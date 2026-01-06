@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Data
+data/*
+!data/.gitkeep
+
+# Logs and local artifacts
+logs/
